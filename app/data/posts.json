@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "slug": "learn-reactjs",
+    "description": "description",
+    "steps": ["read", "test", "continue"]
+  },
+  {
+    "id": 2,
+    "slug": "learn-nextjs",
+    "description": "description",
+    "steps": ["read", "test", "continue"]
+  }
+]
